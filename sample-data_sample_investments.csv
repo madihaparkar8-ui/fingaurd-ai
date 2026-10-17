@@ -1,0 +1,5 @@
+entity_name,amount,invested_on,type,return_amount,status
+Apex Wealth Advisory,20000.00,2026-09-01,EQUITY,24000.00,RETURNED
+Apex Wealth Advisory,30000.00,2026-09-10,EQUITY,,ACTIVE
+Apex Wealth Advisory,50000.00,2026-09-20,EQUITY,,ACTIVE
+Apex Wealth Advisory,100000.00,2026-09-30,EQUITY,,ACTIVE
